@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+---
+
+# Your rule content
+
+- use javascript best naming practice
+- create layouts for headers/footers
+- create stateless components when suggested
