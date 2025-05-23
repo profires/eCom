@@ -1,5 +1,5 @@
 <script setup>
-import { onMounted, onUnmounted  } from 'vue'
+import { ref, onMounted, onUnmounted  } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
 import { useEventStore } from '@/stores/event'
 import { useCartStore } from '@/stores/cart'
